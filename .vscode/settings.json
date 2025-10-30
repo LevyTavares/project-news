@@ -1,5 +1,10 @@
 {
   "files.associations": {
     "*.sql": "postgres"
+  },
+  "mssql.intelliSense.enableErrorChecks": false,
+  "material-icon-theme.languages.associations": {
+    "postgres": "sql",
+    "pgsql": "sql"
   }
 }

@@ -6,5 +6,8 @@
   "material-icon-theme.languages.associations": {
     "postgres": "sql",
     "pgsql": "sql"
+  },
+  "material-icon-theme.files.associations": {
+    "news.sql": "sql"
   }
 }
